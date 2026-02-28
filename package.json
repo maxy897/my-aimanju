@@ -145,6 +145,6 @@
     "tsx": "^4.20.5",
     "typescript": "^5",
     "vitest": "^2.1.8",
-    "@types/lru-cache": "^4.2.0"  
+    "@types/lru-cache": "^5.0.0"  
   }
 }
